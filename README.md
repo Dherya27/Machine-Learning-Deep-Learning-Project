@@ -5,11 +5,11 @@ Comparative Analysis of Regression Models on the Used Cars Dataset
 
 
 ![Jupyter Notebook](https://github.com/Dherya27/Machine-Learning-Deep-Learning-Project/blob/main/Final_Project_ML.ipynb)
-Linear Regression
-Ridge Regularization
-LASSO
-Decision Tree
-Random Forest
-Gradient Boosting
-Support Vector Machine(SVM)
+Linear Regression,
+Ridge Regularization,
+LASSO,
+Decision Tree,
+Random Forest,
+Gradient Boosting,
+Support Vector Machine(SVM),
 Neural Network
